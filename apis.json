@@ -1,0 +1,66 @@
+{
+    "name": "TappIn",
+    "description": "TappIn revolutionizes your ability to securely and easily share and access digital files stores on a home or work computer from any web browser or smartphone.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/949-tappin.jpg",
+    "tags": [
+        "cloud",
+        "have api",
+        "social",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tappin\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TappIn",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/949-tappin.jpg",
+            "humanURL": "http:\/\/www.tappin.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tappin-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tappin-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.tappin.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.tappin.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tappin"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tappin"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.tappin.com\/developer-api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Tapp_In"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tappin.com\/"
+        }
+    ]
+}
